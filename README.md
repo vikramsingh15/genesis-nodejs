@@ -1,5 +1,5 @@
 
-# stickmen-assignment
+# Genesis nodejs
 
 url of assignment(https://afternoon-gorge-44357.herokuapp.com)
 
